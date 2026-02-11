@@ -6,7 +6,7 @@ All data is organized by **weapon type** and **pattern template**.
 
 **What’s inside**
 - `data/` — Individual JSON files separated by skin type.  
-- `dump/all_skins.json` — Aggregated dump for all available skins/patterns in one file.
+- `tiers/` — Tier lists based on external references and community sources | may change over time.
 
 The nesting is:
 - `skin` (`fade`) → `weapon` (`awp`) → `pattern_id` (`"8"`) → fields
